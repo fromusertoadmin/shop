@@ -3,6 +3,20 @@ from products.models import Product
 from django.db.models.signals import post_save
 from django.contrib.auth.models import User
 
+from functools import wraps
+
+
+def disable_for_loaddata(signal_handler):
+    """
+    Decorator that turns off signal handlers when loading fixture data.
+    """
+    @wraps(signal_handler)
+    def wrapper(*args, **kwargs):
+        if kwargs['raw']:
+            return
+        signal_handler(*args, **kwargs)
+    return wrapper
+
 
 class Status(models.Model):
     name = models.CharField(max_length=24, blank=True, null=True, default=None)
@@ -68,7 +82,7 @@ class ProductInOrder(models.Model):
 
         super(ProductInOrder, self).save(*args, **kwargs)
 
-
+@disable_for_loaddata
 def product_in_order_post_save(sender, instance, created, **kwargs):
     order = instance.order
     all_products_in_order = ProductInOrder.objects.filter(order=order, is_active=True)
