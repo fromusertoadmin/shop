@@ -886,6 +886,48 @@
    }
 },
 {
+   "model": "orders.productinorder",
+   "pk": 68,
+   "fields": {
+      "order": 49,
+      "product": 12,
+      "nmb": 2,
+      "price_per_item": "2000.50",
+      "total_price": "4001.00",
+      "is_active": true,
+      "created": "2017-08-30T13:07:34.472Z",
+      "updated": "2017-08-30T13:07:34.472Z"
+   }
+},
+{
+   "model": "orders.productinorder",
+   "pk": 69,
+   "fields": {
+      "order": 49,
+      "product": 11,
+      "nmb": 1,
+      "price_per_item": "1000.10",
+      "total_price": "1000.10",
+      "is_active": true,
+      "created": "2017-08-30T13:07:34.697Z",
+      "updated": "2017-08-30T13:07:34.697Z"
+   }
+},
+{
+   "model": "orders.productinorder",
+   "pk": 70,
+   "fields": {
+      "order": 50,
+      "product": 12,
+      "nmb": 3,
+      "price_per_item": "2000.50",
+      "total_price": "6001.50",
+      "is_active": true,
+      "created": "2017-08-30T13:08:15.169Z",
+      "updated": "2017-08-30T13:08:15.169Z"
+   }
+},
+{
    "model": "orders.productinbasket",
    "pk": 132,
    "fields": {
@@ -1876,6 +1918,51 @@
    }
 },
 {
+   "model": "orders.productinbasket",
+   "pk": 198,
+   "fields": {
+      "session_key": "rklb9m0cbjtja2xpb9d0xxrjwj569vdf",
+      "order": 49,
+      "product": 12,
+      "nmb": 2,
+      "price_per_item": "2000.50",
+      "total_price": "4001.00",
+      "is_active": true,
+      "created": "2017-08-30T13:07:15.868Z",
+      "updated": "2017-08-30T13:07:34.326Z"
+   }
+},
+{
+   "model": "orders.productinbasket",
+   "pk": 199,
+   "fields": {
+      "session_key": "rklb9m0cbjtja2xpb9d0xxrjwj569vdf",
+      "order": 49,
+      "product": 11,
+      "nmb": 1,
+      "price_per_item": "1000.10",
+      "total_price": "1000.10",
+      "is_active": true,
+      "created": "2017-08-30T13:07:16.450Z",
+      "updated": "2017-08-30T13:07:34.628Z"
+   }
+},
+{
+   "model": "orders.productinbasket",
+   "pk": 200,
+   "fields": {
+      "session_key": "rklb9m0cbjtja2xpb9d0xxrjwj569vdf",
+      "order": 50,
+      "product": 12,
+      "nmb": 3,
+      "price_per_item": "2000.50",
+      "total_price": "6001.50",
+      "is_active": true,
+      "created": "2017-08-30T13:08:06.722Z",
+      "updated": "2017-08-30T13:08:15.100Z"
+   }
+},
+{
    "model": "privacy.privacypolicy",
    "pk": 1,
    "fields": {
@@ -2354,6 +2441,50 @@
       "email": "vlad.vv@ukr.net",
       "created": "2017-08-29T09:40:26.878Z",
       "updated": "2017-08-29T09:40:26.878Z"
+   }
+},
+{
+   "model": "emails.emailsendingfact",
+   "pk": 46,
+   "fields": {
+      "type": 1,
+      "order": 49,
+      "email": "vlad.vv@ukr.net",
+      "created": "2017-08-30T13:07:37.918Z",
+      "updated": "2017-08-30T13:07:37.918Z"
+   }
+},
+{
+   "model": "emails.emailsendingfact",
+   "pk": 47,
+   "fields": {
+      "type": 2,
+      "order": 49,
+      "email": "setupvlad@gmail.com",
+      "created": "2017-08-30T13:07:39.288Z",
+      "updated": "2017-08-30T13:07:39.288Z"
+   }
+},
+{
+   "model": "emails.emailsendingfact",
+   "pk": 48,
+   "fields": {
+      "type": 1,
+      "order": 50,
+      "email": "vlad.vv@ukr.net",
+      "created": "2017-08-30T13:08:16.556Z",
+      "updated": "2017-08-30T13:08:16.556Z"
+   }
+},
+{
+   "model": "emails.emailsendingfact",
+   "pk": 49,
+   "fields": {
+      "type": 2,
+      "order": 50,
+      "email": "vikavik2323@gmail.com",
+      "created": "2017-08-30T13:08:18.078Z",
+      "updated": "2017-08-30T13:08:18.078Z"
    }
 },
 {
@@ -3518,6 +3649,42 @@
    }
 },
 {
+   "model": "auth.user",
+   "pk": 44,
+   "fields": {
+      "password": "",
+      "last_login": null,
+      "is_superuser": false,
+      "username": "3246734734673",
+      "first_name": "gfdgdfhh",
+      "last_name": "",
+      "email": "",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2017-08-30T13:07:34.192Z",
+      "groups": [],
+      "user_permissions": []
+   }
+},
+{
+   "model": "auth.user",
+   "pk": 45,
+   "fields": {
+      "password": "",
+      "last_login": null,
+      "is_superuser": false,
+      "username": "234662362346",
+      "first_name": "sdgsdgsdgsdg",
+      "last_name": "",
+      "email": "",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2017-08-30T13:08:14.921Z",
+      "groups": [],
+      "user_permissions": []
+   }
+},
+{
    "model": "orders.order",
    "pk": 23,
    "fields": {
@@ -3931,6 +4098,38 @@
       "status": 1,
       "created": "2017-08-29T09:40:22.990Z",
       "updated": "2017-08-29T09:40:23.179Z"
+   }
+},
+{
+   "model": "orders.order",
+   "pk": 49,
+   "fields": {
+      "user": 44,
+      "total_price": "5001.10",
+      "customer_name": "gfdgdfhh",
+      "customer_email": "setupvlad@gmail.com",
+      "customer_phone": "3246734734673",
+      "customer_address": null,
+      "comments": null,
+      "status": 1,
+      "created": "2017-08-30T13:07:34.253Z",
+      "updated": "2017-08-30T13:07:34.780Z"
+   }
+},
+{
+   "model": "orders.order",
+   "pk": 50,
+   "fields": {
+      "user": 45,
+      "total_price": "6001.50",
+      "customer_name": "sdgsdgsdgsdg",
+      "customer_email": "vikavik2323@gmail.com",
+      "customer_phone": "234662362346",
+      "customer_address": null,
+      "comments": null,
+      "status": 1,
+      "created": "2017-08-30T13:08:15.027Z",
+      "updated": "2017-08-30T13:08:15.232Z"
    }
 },
 {
