@@ -43,6 +43,7 @@ INSTALLED_APPS = [
     'orders',
     'privacy',
     'emails',
+    'utils',
 
     #external packages
     'django_summernote',
