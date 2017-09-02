@@ -1,7 +1,135 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9f0f029d-cd58-4b79-a05e-2115e34b4451" name="Default" comment="" />
+    <list default="true" id="9f0f029d-cd58-4b79-a05e-2115e34b4451" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/media/products_images/2c6332dcf4cd76445cc13bd4679d6d66.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/media/products_images/2c6332dcf4cd76445cc13bd4679d6d66_NVDx7GS.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/media/products_images/4ce2ec9c82ca5d1685e3037aa5ffac27.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/media/products_images/93ab3e9826b18ecd561abbed80aabf5b.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/media/products_images/add.ua-farmak-oao-ukraina-kiev-vial-005-kapli-glaznye-10-ml-34.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/media/products_images/add.ua-farmak-oao-ukraina-kiev-vial-005-kapli-glaznye-10-ml-34_4qdhdTC.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/media/products_images/add.ua-ilan-farm-ukraina-angiplant-rastvor-dlja-gorla-200-ml-31.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/media/products_images/ce0f42f9598935ad5bd5d437916bd9f2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/media/products_images/d6ac3b5427371a13cc93932c90d75552.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/font/summernote.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/font/summernote.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/font/summernote.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/img/back-img.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/img/bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/img/footer-logo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/img/footer-logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/img/h1-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/img/images.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/img/images2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/img/images3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/img/images4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/img/logo-foot.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/img/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/img/logogo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/img/medicine2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/img/sample.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/img/social-small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/img/social.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/initial_data.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/ResizeSensor.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/SOURCE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/django_summernote.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/django_summernote_inplace.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/jquery.fileupload.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/jquery.iframe-transport.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/jquery.ui.widget.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-ar-AR.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-ar-AR.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-bg-BG.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-bg-BG.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-ca-ES.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-ca-ES.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-cs-CZ.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-cs-CZ.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-da-DK.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-da-DK.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-de-DE.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-de-DE.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-el-GR.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-el-GR.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-es-ES.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-es-ES.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-es-EU.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-es-EU.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-fa-IR.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-fa-IR.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-fi-FI.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-fi-FI.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-fr-FR.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-fr-FR.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-gl-ES.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-gl-ES.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-he-IL.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-he-IL.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-hr-HR.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-hr-HR.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-hu-HU.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-hu-HU.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-id-ID.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-id-ID.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-it-IT.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-it-IT.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-ja-JP.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-ja-JP.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-ko-KR.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-ko-KR.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-lt-LT.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-lt-LT.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-lt-LV.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-lt-LV.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-mn-MN.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-mn-MN.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-nb-NO.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-nb-NO.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-nl-NL.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-nl-NL.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-pl-PL.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-pl-PL.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-pt-BR.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-pt-BR.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-pt-PT.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-pt-PT.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-ro-RO.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-ro-RO.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-ru-RU.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-ru-RU.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-sk-SK.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-sk-SK.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-sl-SI.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-sl-SI.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-sr-RS-Latin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-sr-RS-Latin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-sr-RS.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-sr-RS.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-sv-SE.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-sv-SE.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-ta-IN.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-ta-IN.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-th-TH.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-th-TH.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-tr-TR.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-tr-TR.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-uk-UA.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-uk-UA.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-vi-VN.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-vi-VN.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-zh-CN.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-zh-CN.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-zh-TW.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-zh-TW.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/summernote.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/summernote.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/js/scripts.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db.sqlite3" afterPath="$PROJECT_DIR$/db.sqlite3" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/static_prod/admin/css/base.css" afterPath="$PROJECT_DIR$/static/static_prod/admin/css/base.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/landing/product_item.html" afterPath="$PROJECT_DIR$/templates/landing/product_item.html" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,57 +156,17 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="settings.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/untitled6/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2354">
+            <state relative-caret-position="-1071">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/utils/main.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/static/static_prod/css/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/static/static_dev/css/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1785">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="base.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/static/static_prod/admin/css/base.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="6171">
-              <caret line="363" column="55" lean-forward="false" selection-start-line="363" selection-start-column="55" selection-end-line="363" selection-end-column="55" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="initial_data.json" pinned="false" current-in-tab="true">
+      <file leaf-file-name="initial_data.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/initial_data.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
@@ -88,8 +176,8 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="changelists.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/static/static_prod/admin/css/changelists.css">
+      <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/untitled6/urls.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -101,27 +189,69 @@
       <file leaf-file-name="settings_prod1.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/untitled6/settings_prod1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="19" lean-forward="false" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="models.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/orders/models.py">
+      <file leaf-file-name="admin.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/orders/admin.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding>
-                <element signature="e#0#28#0" expanded="true" />
+                <element signature="e#0#32#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="emails.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/utils/emails.py">
+      <file leaf-file-name="context_processors.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/orders/context_processors.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="forms.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/orders/forms.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#24#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/orders/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/orders/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/untitled6/__init__.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -158,7 +288,6 @@
         <option value="$PROJECT_DIR$/products/views.py" />
         <option value="$PROJECT_DIR$/orders/context_processors.py" />
         <option value="$PROJECT_DIR$/static/static_dev/js/scripts.js" />
-        <option value="$PROJECT_DIR$/templates/landing/product_item.html" />
         <option value="$PROJECT_DIR$/static/static_prod/css/style.css" />
         <option value="$PROJECT_DIR$/privacy/admin.py" />
         <option value="$PROJECT_DIR$/privacy/models.py" />
@@ -195,6 +324,7 @@
         <option value="$PROJECT_DIR$/orders/models.py" />
         <option value="$PROJECT_DIR$/untitled6/settings_prod1.py" />
         <option value="$PROJECT_DIR$/static/static_prod/admin/css/base.css" />
+        <option value="$PROJECT_DIR$/templates/landing/product_item.html" />
       </list>
     </option>
   </component>
@@ -211,7 +341,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-3" />
     <option name="y" value="634" />
     <option name="width" value="1692" />
@@ -233,6 +363,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="ProjectPane" />
       <pane id="Scope">
         <subPane subId="Project Files">
           <expand>
@@ -243,33 +374,7 @@
             <path>
               <item name="Root" type="cbb8eebc:String" user="Root" />
               <item name="untitled6" type="cbb8eebc:String" user="untitled6" />
-              <item name=".idea" type="cbb8eebc:String" user=".idea" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
               <item name="untitled6" type="cbb8eebc:String" user="untitled6" />
-              <item name="static" type="cbb8eebc:String" user="static" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="untitled6" type="cbb8eebc:String" user="untitled6" />
-              <item name="static" type="cbb8eebc:String" user="static" />
-              <item name="static_prod" type="cbb8eebc:String" user="static_prod" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="untitled6" type="cbb8eebc:String" user="untitled6" />
-              <item name="static" type="cbb8eebc:String" user="static" />
-              <item name="static_prod" type="cbb8eebc:String" user="static_prod" />
-              <item name="admin" type="cbb8eebc:String" user="admin" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="untitled6" type="cbb8eebc:String" user="untitled6" />
-              <item name="static" type="cbb8eebc:String" user="static" />
-              <item name="static_prod" type="cbb8eebc:String" user="static_prod" />
-              <item name="admin" type="cbb8eebc:String" user="admin" />
-              <item name="css" type="cbb8eebc:String" user="css" />
             </path>
             <path>
               <item name="Root" type="cbb8eebc:String" user="Root" />
@@ -281,7 +386,6 @@
         </subPane>
       </pane>
       <pane id="Scratches" />
-      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -293,9 +397,9 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\vika\PycharmProjects\untitled6" />
       <recent name="C:\Users\vika\PycharmProjects\untitled6\static\static_dev\img" />
       <recent name="C:\Users\vika\PycharmProjects\untitled6\privacy" />
-      <recent name="C:\Users\vika\PycharmProjects\untitled6" />
       <recent name="C:\Users\vika\PycharmProjects\untitled6\shop" />
       <recent name="C:\Users\vika\PycharmProjects\untitled6\orders" />
     </key>
@@ -533,23 +637,24 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
+    <frame x="-8" y="-8" width="1696" height="1026" extended-state="7" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2695599" sideWeight="0.4939759" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2903423" sideWeight="0.4939759" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298731" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23990773" sideWeight="0.11002445" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23990773" sideWeight="0.13997555" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294621" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32871974" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23990773" sideWeight="0.88997555" order="9" side_tool="false" content_ui="tabs" x="177" y="342" width="1326" height="326" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23990773" sideWeight="0.86002445" order="9" side_tool="false" content_ui="tabs" x="177" y="342" width="1326" height="326" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2732274" sideWeight="0.5060241" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22960372" sideWeight="0.8455882" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2295271" sideWeight="0.841687" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3252595" sideWeight="0.49755502" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -590,28 +695,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/static/static_prod/img/bg_image.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/static_prod/img/img2.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/static_dev/img/img2.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/static_prod/css/landing.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/static/static_dev/css/landing.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -627,48 +710,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/landing/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/landing/admin.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/landing/forms.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/landing/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/emails/tests.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/untitled6/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/orders/urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -717,20 +758,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/landing/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="35" column="61" lean-forward="false" selection-start-line="35" selection-start-column="61" selection-end-line="35" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/landing/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="26" column="1" lean-forward="false" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/templates/footer.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="403">
@@ -745,21 +772,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/landing/product_item.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/templates/orders/checkout.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/products/product.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -773,24 +786,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/base.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="16" lean-forward="false" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/templates/landing/shipping.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="4" lean-forward="false" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/landing/home.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -815,10 +814,187 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/templates/emails_templates/order_notification_admin.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/orders/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/emails.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/static_prod/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/intitial_data.json" />
+    <entry file="file://$PROJECT_DIR$/static/static_prod/admin/css/changelists.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="12" lean-forward="false" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/static_dev/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/static_prod/admin/css/base.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6273">
+          <caret line="369" column="16" lean-forward="false" selection-start-line="369" selection-start-column="16" selection-end-line="369" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/products/product.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/landing/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/landing/product_item.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="14" lean-forward="false" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/emails/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/emails/tests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/emails/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/emails/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/emails/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/landing/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/landing/forms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/landing/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/landing/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/landing/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/orders/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/orders/context_processors.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -828,38 +1004,12 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#24#0" expanded="false" />
+            <element signature="e#0#24#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/emails/admin.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#32#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/emails/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/emails_templates/order_notification_admin.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/emails/views.py">
+    <entry file="file://$PROJECT_DIR$/orders/urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -869,92 +1019,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/orders/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1479">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#24#96#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/orders/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#28#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/untitled6/settings_prod1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="19" lean-forward="false" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/untitled6/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2354">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/utils/emails.py">
-      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/utils/main.py">
+    <entry file="file://$PROJECT_DIR$/untitled6/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/static_prod/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/static_dev/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1785">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/intitial_data.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/static_prod/admin/css/changelists.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/static_prod/admin/css/base.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6171">
-          <caret line="363" column="55" lean-forward="false" selection-start-line="363" selection-start-column="55" selection-end-line="363" selection-end-column="55" />
           <folding />
         </state>
       </provider>
@@ -962,6 +1036,30 @@
     <entry file="file://$PROJECT_DIR$/initial_data.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/untitled6/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/untitled6/settings_prod1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/untitled6/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1071">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
