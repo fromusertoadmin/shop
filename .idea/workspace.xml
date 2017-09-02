@@ -2,133 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9f0f029d-cd58-4b79-a05e-2115e34b4451" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/media/products_images/2c6332dcf4cd76445cc13bd4679d6d66.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/media/products_images/2c6332dcf4cd76445cc13bd4679d6d66_NVDx7GS.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/media/products_images/4ce2ec9c82ca5d1685e3037aa5ffac27.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/media/products_images/93ab3e9826b18ecd561abbed80aabf5b.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/media/products_images/add.ua-farmak-oao-ukraina-kiev-vial-005-kapli-glaznye-10-ml-34.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/media/products_images/add.ua-farmak-oao-ukraina-kiev-vial-005-kapli-glaznye-10-ml-34_4qdhdTC.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/media/products_images/add.ua-ilan-farm-ukraina-angiplant-rastvor-dlja-gorla-200-ml-31.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/media/products_images/ce0f42f9598935ad5bd5d437916bd9f2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/media/products_images/d6ac3b5427371a13cc93932c90d75552.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/font/summernote.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/font/summernote.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/font/summernote.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/img/back-img.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/img/bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/img/footer-logo.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/img/footer-logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/img/h1-bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/img/images.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/img/images2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/img/images3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/img/images4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/img/logo-foot.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/img/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/img/logogo.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/img/medicine2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/img/sample.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/img/social-small.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/img/social.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/initial_data.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/ResizeSensor.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/SOURCE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/django_summernote.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/django_summernote_inplace.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/jquery.fileupload.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/jquery.iframe-transport.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/jquery.ui.widget.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-ar-AR.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-ar-AR.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-bg-BG.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-bg-BG.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-ca-ES.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-ca-ES.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-cs-CZ.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-cs-CZ.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-da-DK.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-da-DK.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-de-DE.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-de-DE.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-el-GR.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-el-GR.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-es-ES.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-es-ES.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-es-EU.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-es-EU.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-fa-IR.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-fa-IR.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-fi-FI.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-fi-FI.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-fr-FR.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-fr-FR.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-gl-ES.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-gl-ES.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-he-IL.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-he-IL.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-hr-HR.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-hr-HR.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-hu-HU.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-hu-HU.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-id-ID.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-id-ID.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-it-IT.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-it-IT.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-ja-JP.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-ja-JP.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-ko-KR.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-ko-KR.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-lt-LT.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-lt-LT.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-lt-LV.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-lt-LV.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-mn-MN.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-mn-MN.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-nb-NO.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-nb-NO.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-nl-NL.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-nl-NL.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-pl-PL.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-pl-PL.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-pt-BR.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-pt-BR.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-pt-PT.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-pt-PT.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-ro-RO.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-ro-RO.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-ru-RU.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-ru-RU.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-sk-SK.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-sk-SK.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-sl-SI.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-sl-SI.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-sr-RS-Latin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-sr-RS-Latin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-sr-RS.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-sr-RS.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-sv-SE.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-sv-SE.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-ta-IN.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-ta-IN.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-th-TH.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-th-TH.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-tr-TR.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-tr-TR.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-uk-UA.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-uk-UA.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-vi-VN.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-vi-VN.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-zh-CN.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-zh-CN.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-zh-TW.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/lang/summernote-zh-TW.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/summernote.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/django_summernote/summernote.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/js/scripts.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db.sqlite3" afterPath="$PROJECT_DIR$/db.sqlite3" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/static_prod/admin/css/base.css" afterPath="$PROJECT_DIR$/static/static_prod/admin/css/base.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/landing/product_item.html" afterPath="$PROJECT_DIR$/templates/landing/product_item.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/navbar.html" afterPath="$PROJECT_DIR$/templates/navbar.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -156,11 +30,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="settings.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/untitled6/settings.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-1071">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="navbar.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/templates/navbar.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="41" lean-forward="false" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
               <folding />
             </state>
           </provider>
@@ -192,18 +76,6 @@
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="admin.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/orders/admin.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#32#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -307,7 +179,6 @@
         <option value="$PROJECT_DIR$/landing/admin.py" />
         <option value="$PROJECT_DIR$/landing/views.py" />
         <option value="$PROJECT_DIR$/landing/urls.py" />
-        <option value="$PROJECT_DIR$/templates/navbar.html" />
         <option value="$PROJECT_DIR$/templates/landing/about.html" />
         <option value="$PROJECT_DIR$/templates/footer.html" />
         <option value="$PROJECT_DIR$/templates/landing/home.html" />
@@ -325,6 +196,7 @@
         <option value="$PROJECT_DIR$/untitled6/settings_prod1.py" />
         <option value="$PROJECT_DIR$/static/static_prod/admin/css/base.css" />
         <option value="$PROJECT_DIR$/templates/landing/product_item.html" />
+        <option value="$PROJECT_DIR$/templates/navbar.html" />
       </list>
     </option>
   </component>
@@ -341,7 +213,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-3" />
     <option name="y" value="634" />
     <option name="width" value="1692" />
@@ -370,6 +242,31 @@
             <path>
               <item name="Root" type="cbb8eebc:String" user="Root" />
               <item name="untitled6" type="cbb8eebc:String" user="untitled6" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="untitled6" type="cbb8eebc:String" user="untitled6" />
+              <item name="emails" type="cbb8eebc:String" user="emails" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="untitled6" type="cbb8eebc:String" user="untitled6" />
+              <item name="landing" type="cbb8eebc:String" user="landing" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="untitled6" type="cbb8eebc:String" user="untitled6" />
+              <item name="orders" type="cbb8eebc:String" user="orders" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="untitled6" type="cbb8eebc:String" user="untitled6" />
+              <item name="products" type="cbb8eebc:String" user="products" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="untitled6" type="cbb8eebc:String" user="untitled6" />
+              <item name="templates" type="cbb8eebc:String" user="templates" />
             </path>
             <path>
               <item name="Root" type="cbb8eebc:String" user="Root" />
@@ -637,10 +534,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1696" height="1026" extended-state="7" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2903423" sideWeight="0.4939759" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2903423" sideWeight="0.4939759" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298731" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23990773" sideWeight="0.13997555" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294621" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -773,13 +669,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/orders/checkout.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/navbar.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -924,6 +813,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1061,6 +951,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1071">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/navbar.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="41" lean-forward="false" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
           <folding />
         </state>
       </provider>
