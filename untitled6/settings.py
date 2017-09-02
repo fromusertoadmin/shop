@@ -155,7 +155,7 @@ EMAIL_USE_TLS = True
 FROM_EMAIL = "vlad.vv@ukr.net"
 EMAIL_ADMIN = "vlad.vv@ukr.net"
 
-# try:
-#     from .settings_prod import *
-# except:
-#     pass
+try:
+    from .settings_prod import *
+except:
+    pass
